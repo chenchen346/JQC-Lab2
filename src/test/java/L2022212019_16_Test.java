@@ -36,7 +36,7 @@ public class L2022212019_16_Test {
 
     @Test
     public void testLargestNumber_MixedElements() {
-        // 测试目的：验证当包含正数和零时，返回按字典序最大的组合
+        // 测试目的：验证当包含正数和零时，返回数字组合最大的组合
         // 测试用例：[3, 30, 34, 5, 9]
         int[] nums = {3, 30, 34, 5, 9};
         Solution16 solution = new Solution16();
